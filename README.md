@@ -1,2 +1,9 @@
 # Примеры кода в тетрадках Jupyter, разработанные в рамках курса от Яндекс
-Notebooks_Yandex_data_analysis_course
+### 1. <a href="https://......ipynb" target="blank" rel="noreferrer">Название работы</a>
+
+**Задача:**
+Задача — описание задачи.
+
+**Библиотеки:**
+`pandas, pymystem3`
+<hr>
